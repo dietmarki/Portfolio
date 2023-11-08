@@ -7,7 +7,7 @@ import requests
 
 # basiszugriff auf URL:
 BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline"
-key = "EFB5P8LRGTWURL3AG7CUDED7C"
+key = "XXXXXXXXXXXXXXXXXXXXXXX"
 
 # fehler-klassen definieren:
 class MaximumRequestsDone(Exception):
